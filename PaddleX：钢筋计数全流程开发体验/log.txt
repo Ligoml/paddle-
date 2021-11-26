@@ -1,0 +1,3 @@
+[11-25 13:07:56 MainThread @logger.py:242] Argv: code/train.py
+[11-25 13:07:56 MainThread @utils.py:79] WRN paddlepaddle version: 2.2.0. The dynamic graph version of PARL is under development, not fully tested and supported
+2021-11-25 13:07:58 [INFO]	Starting to read file list from dataset...
