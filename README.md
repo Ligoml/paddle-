@@ -5,3 +5,15 @@
 
 ### 练习三[PaddleSeg：人像精细分割+换背景体验](https://aistudio.baidu.com/aistudio/projectdetail/3146776)
 
+### 练习四[PaddleOCR：研报识别与关键字段抽取](https://aistudio.baidu.com/aistudio/projectdetail/3269666)
+
+### 练习五[PaddleClas：使用PP-ShiTu快速实现图像识别](https://aistudio.baidu.com/aistudio/projectdetail/3269281)
+
+### 练习六[PaddleDetecion：实战PP-TinyPose：如何构建移动端模型](https://aistudio.baidu.com/aistudio/projectdetail/3269496)
+
+### 练习七[PaddleNLP：使用语义预训练大模型ERNIE与小模型PP-MiniLM优化情感分析](https://aistudio.baidu.com/aistudio/projectdetail/3384163)
+
+### 练习八[Paddle Inference：完成推理demo](https://aistudio.baidu.com/aistudio/projectdetail/3449707)
+
+
+
