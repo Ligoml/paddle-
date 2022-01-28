@@ -9,7 +9,7 @@
 
 ### 练习五 [PaddleClas：使用PP-ShiTu快速实现图像识别](https://aistudio.baidu.com/aistudio/projectdetail/3269281)
 
-### 练习六 [PaddleDetecion：实战PP-TinyPose：如何构建移动端模型](https://aistudio.baidu.com/aistudio/projectdetail/3269496)
+### 练习六 [PaddleDetecion：实战PP-TinyPose构建移动端模型](https://aistudio.baidu.com/aistudio/projectdetail/3269496)
 
 ### 练习七 [PaddleNLP：使用语义预训练大模型ERNIE与小模型PP-MiniLM优化情感分析](https://aistudio.baidu.com/aistudio/projectdetail/3384163)
 
