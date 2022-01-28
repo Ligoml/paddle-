@@ -18,7 +18,7 @@
 ### 练习九 [论文复现之使用飞桨复现yolo](https://aistudio.baidu.com/aistudio/projectdetail/3261974)
 
 
-欢迎fork~一起学习呀~
+欢迎fork~ 一起学习呀~
 
 
 
