@@ -77,7 +77,7 @@ body:
     description: |
       请在此给出你对本篇文档的主观评价，API文档是否足够好，能够有效的帮助自己了解并使用这个API？
       加分项：是否有图来协助说明，让本篇API文档更加易于理解？
-      如你已经发现了文档的错误并且判断其容易被修复，欢迎你为paddle与docs提PR，直接修复此文档，并将PR链接贴在以下文本框中~
+      如你已经发现了文档的错误并且判断其容易被修复，欢迎你为[paddle](https://github.com/PaddlePaddle/Paddle/pulls)与[docs](https://github.com/PaddlePaddle/docs/pulls)提PR，直接修复此文档，并将PR链接贴在以下文本框中~
   validations:
     required: true
     
