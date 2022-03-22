@@ -15,7 +15,7 @@ body:
   attributes:
     label: 文档中英文链接
     description: |
-      请输入你评估的文档链接（需含中英文两个链接）。请注意评估文档要是develop版本
+      请输入你评估的文档链接（需含中英文两个链接）。请注意评估文档要是develop版本。
   validations:
     required: true
 
