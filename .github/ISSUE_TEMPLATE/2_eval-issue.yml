@@ -40,7 +40,7 @@ body:
       请评估本篇文档，是否按API文档推荐的结构书写，并且没有遗漏（无需写的部分可以省略）？
       如有结构问题，请在以下文本框中说明。
       
-      API文档推荐的书写结构：API名称、API功能描述、API参数、API返回、API代码示例、API属性(class)、API方法(methods)）
+      API文档推荐的书写结构：API名称、API功能描述、API参数、API返回、API代码示例、API属性(class)、API方法(methods)
   validations:
     required: false
     
