@@ -71,7 +71,7 @@ body:
     required: false
 
 - type: textarea
-  id: eval&fix
+  id: eval_fix
   attributes:
     label: 主观评价
     description: |
